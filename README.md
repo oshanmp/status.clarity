@@ -1,2 +1,2 @@
 # status.clarity
-ClarityPOS project updates and new
+ClarityPOS project updates and news
